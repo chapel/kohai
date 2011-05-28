@@ -17,7 +17,10 @@
     "JS-Entities" : ">=0.1.0",
     "twitter" : ">=0.1.17",
     "nconf" : "0.1.x",
-    "colors" : "0.5.x"
+    "colors" : "0.5.x",
+    "forever" : ">=0.5.2",
+    "dnode" : ">=0.6.12",
+    "hashish" : ">=0.0.2"
   },
   "devDependencies": {}
 }
